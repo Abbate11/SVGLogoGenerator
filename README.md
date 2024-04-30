@@ -5,6 +5,8 @@
   ## Description
 
   # LogoGen: Your Simple Logo Generator
+  
+  Demo link: https://drive.google.com/file/d/1UYpWilFedncpFwG_6rJRTBqH15UBPTia/view?usp=sharing
 
 As a freelance web developer, you understand the importance of branding your projects. With LogoGen, you now have the power to effortlessly create simple yet captivating logos, eliminating the need for costly graphic designers. 
 
